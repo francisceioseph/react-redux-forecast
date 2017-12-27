@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# React Redux Forecast
 
 Simple forecast project with react-redux
 ### Getting Started
